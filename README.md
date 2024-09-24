@@ -52,14 +52,6 @@ Things I love:
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Quote</title>
-    <style>
-        .quote {
-            font-size: 24px;
-            text-align: center;
-            margin-top: 20%;
-        }
-    </style>
 </head>
 <body>
     <div class="quote">
