@@ -39,7 +39,7 @@ Things I love:
  <a href="https://www.sac.or.kr/site/eng/show/show_view?SN=44243"> <i>Matisse: Life and Joy  </i> Exhibition in Seoul (2021) </a>
 </p>
 
-- Listening to music 🎧, Going to cinema 🎞, etc.
+- Listening to music 🎧, Going to cinema 🎞, etc. (I just created my Letterboxd account this year!! @y8ns8)
 - Spending times with my friends and family 🤘
 
 
