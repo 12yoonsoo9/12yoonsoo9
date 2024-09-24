@@ -48,6 +48,23 @@ Things I love:
 - 📫 How to reach me: Yoonsoo Baek on LinkedIn
 - 😄 Pronouns: She / Her
 
+Sub InsertQuote()
+    Dim ws As Worksheet
+    Set ws = ThisWorkbook.Sheets(1) ' Adjust the sheet number as needed
+    
+    With ws.Range("A1")
+        .Value = "The very meaninglessness of life forces man to create his own meaning." & Chr(10) & "(Stanley Kubrick)"
+        .Font.Size = 24
+        .HorizontalAlignment = xlCenter
+        .VerticalAlignment = xlCenter
+        .WrapText = True
+    End With
+    
+    ' Adjust the row height and column width as needed
+    ws.Rows("1:1").RowHeight = 60
+    ws.Columns("A:A").ColumnWidth = 50
+End Sub
+
 
 <!---
 12yoonsoo9/12yoonsoo9 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
