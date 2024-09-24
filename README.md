@@ -1,16 +1,24 @@
 - Hi, I’m @12yoonsoo9 👽 
-- I love to dance, go to art exhibitions 🎨 and have a good time with my friends and family 🤘
+
+Things I love:
+- Dance
+- Art exhibitions 🎨
+- Spending times with my friends and family 🤘
 - My favourite artists include Henri de Toulouse-Lautrec, Matisse and Olafur Eliasson
 <p>
   <a href="https://commons.wikimedia.org/wiki/File:Lautrec_in_bed_1893.jpg#/media/File:Lautrec_in_bed_1893.jpg">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/1/12/Lautrec_in_bed_1893.jpg" alt="File:Lautrec in bed 1893.jpg" height="1821" width="2362">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/12/Lautrec_in_bed_1893.jpg" alt="File:Lautrec in bed 1893.jpg" style="max-width:100%; height:auto;">
   </a>
   <br>
-  By <a href="https://en.wikipedia.org/wiki/en:Henri_de_Toulouse-Lautrec" class="extiw" title="w:en:Henri de Toulouse-Lautrec">
-    <span title="French painter and illustrator (1864–1901)">Henri de Toulouse-Lautrec</span>
-  </a> - Unknown source, Public Domain, 
-  <a href="https://commons.wikimedia.org/w/index.php?curid=109394">Link</a>
+  Henri de Toulouse-Lautrec, </span>
+  </a> <a href="https://commons.wikimedia.org/w/index.php?curid=109394"> <i>Le Lit </i>(1893) </a>
 </p>
+
+<video width="640" height="360" controls autoplay muted>
+  <source src="https://www.bing.com/ck/a?!&&p=14f2188c3bfc55e7JmltdHM9MTcyNzEzNjAwMCZpZ3VpZD0zYjlmNDdmNi1lMDQ3LTYwNDAtMGE0ZC01MzAzZTE3ZjYxNjQmaW5zaWQ9NTU2Mw&ptn=3&ver=2&hsh=3&fclid=3b9f47f6-e047-6040-0a4d-5303e17f6164&u=a1L3ZpZGVvcy9yaXZlcnZpZXcvcmVsYXRlZHZpZXcvP3E9b2xhZnVyK2VsaWFzc29uK3dlYXRoZXIrcHJvamVjdCZtaWQ9M0JGMDM0QTc4ODc3MkI4RjBGRTAzQkYwMzRBNzg4NzcyQjhGMEZFMCZjdmlkPUE0ODgxREFGN0ZEQTRBOEU4QkFGNkI2QkFENjFCRTFGJkZPUk09VklSRQ&ntb=1" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
 - 🌱 I’m currently learning how to code for the first time
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: Yoonsoo Baek on LinkedIn
