@@ -19,6 +19,8 @@ Things I love:
   Your browser does not support the video tag.
 </video>
 
+
+
 - 🌱 I’m currently learning how to code for the first time
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: Yoonsoo Baek on LinkedIn
